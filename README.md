@@ -52,4 +52,4 @@ y += y_t
 z += z_t
 ```
 ### To find more content about SLAM, you can go to:
-### https://github.com/MAB1144-Python/Research-in-SLAM/blob/main/README.md
+### https://github.com/MAB1144-Python/Research-in-SLAM
